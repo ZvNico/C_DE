@@ -3,4 +3,4 @@ project(DE C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(DE main.c)
+add_executable(DE main.c question_de_cours.c)
